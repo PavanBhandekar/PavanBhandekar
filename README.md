@@ -28,7 +28,7 @@ Hello! I'm Pavan Bhandekar, a passionate 3rd-year IT student. I love exploring t
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/pavanbhandekar/project1): Brief description.
+- [Project 1](https://jolly-cobbler-4107cd.netlify.app): Chatter Box
 - [Project 2](https://github.com/pavanbhandekar/project2): Brief description.
 
 ## 🤝 Connect with Me
