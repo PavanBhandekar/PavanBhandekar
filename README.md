@@ -35,7 +35,7 @@ Hello! I'm Pavan Bhandekar, a passionate 3rd-year IT student. I love exploring t
 
 - LinkedIn: [Pavan Bhandekar](https://www.linkedin.com/in/pavanbhandekar/)
 - Twitter: [@PavanBhandekar](https://twitter.com/PavanBhandekar)
-- GitHub: [PavanBhandekar](https://github.com/pavanbhandekar)
+- GitHub: [PavanBhandekar](https://github.com/PavanBhandekar)
 
 ## 📊 GitHub Stats
 
